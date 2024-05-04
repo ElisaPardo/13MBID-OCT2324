@@ -1,0 +1,5 @@
+outs:
+- md5: 5a9be82ceb10f3f8c47453b247c1864e
+  size: 1893419
+  hash: md5
+  path: resultados_ms.csv

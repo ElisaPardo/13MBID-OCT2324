@@ -1,0 +1,5 @@
+outs:
+- md5: e6b122d58f055d45be924ff29b1345b0
+  size: 1898322
+  hash: md5
+  path: resultados_df_dbscan_3000.csv
